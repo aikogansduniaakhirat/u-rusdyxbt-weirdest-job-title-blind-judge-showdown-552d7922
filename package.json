@@ -1,0 +1,11 @@
+{
+  "name": "u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Writes one weird job title to /output/entry.txt",
+  "license": "MIT",
+  "scripts": {
+    "entry": "MAKEFUN_OUTPUT_DIR=out node main.ts"
+  }
+}
